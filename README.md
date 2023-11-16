@@ -19,4 +19,4 @@ This tool is designed to combine multiple *.txt files into one *.txt file.
 ![image](https://github.com/fsn4k3/Combine-Lists/assets/70797855/ab363966-e5ce-40e6-b7c3-e55fb91d888a)
 
 
-Thank you!
+That is all. Thank you!
