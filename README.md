@@ -9,7 +9,8 @@ This tool is designed to combine multiple *.txt files into one *.txt file.
 3. Open a terminal in this folder.
 4. Run the command: `python3 combine.py`
 
-  ![image](https://github.com/fsn4k3/Combine-Lists/assets/70797855/33eedb77-e79a-4446-94f3-9b59a510856f)
+![image](https://github.com/fsn4k3/Combine-Lists/assets/70797855/d15c672e-0214-466b-a270-57e4cc9ac0ac)
+
 
 5. You will find the result in result.txt, with all files combined without repetition. :)))
 
